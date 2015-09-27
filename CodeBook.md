@@ -3,8 +3,7 @@
 ## Variables description
 The variables in the output file **projectresult.txt** is an average of a specific piece of measurement feature data. Its name can tell: 
 * Is it a time (t) or frequency (f) domain data ? 
-* Is it a Body acceleration (bodyacc) / Gravity acceleration (gravityacc) data ?
-  **  Any Mathematic / Statistical function (e.g. mean, std ... etc) applied
+* Is it a Body acceleration (bodyacc) / Gravity acceleration (gravityacc) data ? Any Mathematic / Statistical function (e.g. mean, std ... etc) applied ?
 * X / Y / Z direction if it is a 3-axial signal data
 
 For information about the variables used on the feature vector, please refer to the file **features_info.txt** in the downloaded dataset.
