@@ -1,11 +1,13 @@
 # CodeBook
 
 ## Variables description
-A variable captures a specific piece of measurement. Its name can tell: 
+The variables in the output file **projectresult.txt** is an average of a specific piece of measurement feature data. Its name can tell: 
 * Is it a time (t) or frequency (f) domain data ? 
 * Is it a Body acceleration (bodyacc) / Gravity acceleration (gravityacc) data ?
 **  Any Mathematic / Statistical function (e.g. mean, std ... etc) applied
 * X / Y / Z direction if it is a 3-axial signal data
+
+For information about the variables used on the feature vector, please refer to the file **features_info.txt** in the downloaded dataset.
 
 ### List of Mathematic / Statistical functions
 
@@ -42,6 +44,8 @@ train/subject_train.txt | Each row identifies the subject who performed the acti
 test/X_test.txt | Test set
 test/y_test.txt | Test labels
 test/subject_test.txt | Each row identifies the subject who performed the activity for each window sample. Its range is from 1 to 30
+
+For detailed information about the experiment, please refer to the file **README.txt** in the downloaded dataset.
 
 ## Data transformation
 As the dataset we downloaded from the URL is raw data, we need to go through a series of steps in order to output a tidy dataset. 

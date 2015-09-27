@@ -15,7 +15,7 @@ The dataset can be downloaded from below URL.
 https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip
 
 ## How to produce the result text file
-1. Download the dataset from the aforementioned URL
+1. Download the dataset from the aforementioned URL mentioned in Background section or in this repository
 2. Open RStudio and set your working directory
 3. Unzip the downloaded zip file in Step 1 under the working directory 
 4. Run the R script by running `source("run_analysis.R")` in RStudio
