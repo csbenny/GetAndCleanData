@@ -7,7 +7,8 @@ A variable captures a specific piece of signal data in:
 **  With any Mathematic / Statistical function applied (e.g. mean, std ... etc)
 * X / Y / Z direction of 3-axial signal data
 
-List of Mathematic / Statistical functions
+### List of Mathematic / Statistical functions
+
 Function | Description
 -------- | -----------
 mean() | Mean value
